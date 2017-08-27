@@ -1,2 +1,2 @@
-Code snippets, not runnable files, for codefights.com
+To see tests, go into folder and $go test -test.v
 
